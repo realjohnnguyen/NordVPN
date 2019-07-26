@@ -1,3 +1,3 @@
 # NordVPN
 
-//Download it
+Download it
